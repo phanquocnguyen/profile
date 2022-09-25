@@ -1119,7 +1119,7 @@
   content: "\f14a";
 }
 .fa-pencil-square:before {
-  content: "\f14b";
+  content: "\01F3EB  ";
 }
 .fa-external-link-square:before {
   content: "\f14c";
@@ -1375,7 +1375,7 @@
   content: "\f19e";
 }
 .fa-google:before {
-  content: "\f1a0";
+  content: "?";
 }
 .fa-reddit:before {
   content: "\f1a1";
