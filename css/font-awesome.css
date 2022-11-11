@@ -646,6 +646,9 @@
 .fa-zalo:before {
   content: "Z";
 }
+.fa-zalo1:before {
+  content: "G";
+}
 .fa-unlock:before {
   content: "\f09c";
 }
